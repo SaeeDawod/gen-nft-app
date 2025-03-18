@@ -1,0 +1,38 @@
+{
+  "name": "Pepper",
+  "description": "Anybody who doesn't know what soap tastes like never washed Pepper.",
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Australian Shepard"
+    },
+    {
+      "trait_type": "Shedding",
+      "value": 3,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Affectionate",
+      "value": 3,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Playfulness",
+      "value": 4,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Floof",
+      "display_type": "boost_number",
+      "value": 80
+    },
+    {
+      "trait_type": "Birthday",
+      "value": 1518028713,
+      "display_type": "date"
+    }
+  ]
+}

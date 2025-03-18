@@ -1,0 +1,38 @@
+{
+  "name": "Cooper",
+  "description": "A door is what Cooper is perpetually on the wrong side of.",
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Bernese Mountain Dog"
+    },
+    {
+      "trait_type": "Shedding",
+      "value": 5,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Affectionate",
+      "value": 5,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Playfulness",
+      "value": 4,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Floof",
+      "display_type": "boost_number",
+      "value": 90
+    },
+    {
+      "trait_type": "Birthday",
+      "value": 1568569113,
+      "display_type": "date"
+    }
+  ]
+}

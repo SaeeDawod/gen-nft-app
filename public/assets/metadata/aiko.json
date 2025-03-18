@@ -1,0 +1,38 @@
+{
+  "name": "Aiko",
+  "description": "Aiko can express more with his tail in seconds than his owner can express with his tongue in hours.",
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "English Cocker Spaniel"
+    },
+    {
+      "trait_type": "Shedding",
+      "value": 3,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Affectionate",
+      "value": 5,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Playfulness",
+      "value": 3,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Floof",
+      "display_type": "boost_number",
+      "value": 100
+    },
+    {
+      "trait_type": "Birthday",
+      "value": 1605465513,
+      "display_type": "date"
+    }
+  ]
+}

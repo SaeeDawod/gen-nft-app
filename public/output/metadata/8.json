@@ -1,0 +1,16 @@
+{
+  "name": "Dog NFT Collection #8",
+  "description": "A collection of unique dog NFTs with timestamps",
+  "image": "https://api-s3-42715.gke-japan.settlemint.com/nft-collection/images/8.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "rare"
+    },
+    {
+      "trait_type": "Subject",
+      "value": "cooper"
+    }
+  ],
+  "timestamp": "2025-03-17T21:34:35.295Z"
+}

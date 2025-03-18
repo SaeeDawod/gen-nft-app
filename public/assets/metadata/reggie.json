@@ -1,0 +1,39 @@
+{
+  "name": "Reggie",
+  "description": "There is no psychiatrist in the world like Reggie licking your face.",
+  "image": "ipfs://bafybeieqmtg6ghrwjg3udu34bdfaeugs7toc4c4moshh37glbbykrffcvu",
+  "attributes": [
+    {
+      "trait_type": "Breed",
+      "value": "Weimaraner"
+    },
+    {
+      "trait_type": "Shedding",
+      "value": 3,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Affectionate",
+      "value": 5,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Playfulness",
+      "value": 5,
+      "max_value": 5,
+      "display_type": "number"
+    },
+    {
+      "trait_type": "Floof",
+      "display_type": "boost_number",
+      "value": 70
+    },
+    {
+      "trait_type": "Birthday",
+      "value": 1637005192,
+      "display_type": "date"
+    }
+  ]
+}
